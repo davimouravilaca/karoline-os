@@ -1,6 +1,6 @@
 # karoline-os
 
-<p>
+```plaintext
  _   __                _ _                        
 | | / /               | (_)                       
 | |/ /  __ _ _ __ ___ | |_ _ __   ___    ___  ___ 
@@ -25,6 +25,3 @@
 
 
 linux from scratch
-
-
-<p>
